@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "Meth_4.Main",
+            "projectName": "Tpsit-relazione_62484182"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Meth_1.Main",
+            "projectName": "Tpsit-relazione_62484182"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Meth_3.Main",
             "projectName": "Tpsit relazione_7b0f308c"
         },

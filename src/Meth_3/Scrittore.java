@@ -3,7 +3,6 @@ package Meth_3;
 import java.util.List;
 import java.util.Random;
 import java.util.concurrent.locks.Lock;
-import java.util.random.RandomGenerator;
 
 public class Scrittore implements Runnable{
    final List<Integer> list;
@@ -15,7 +14,7 @@ public class Scrittore implements Runnable{
 
    @Override
    public void run() {
-       RandomGenerator random = new Random();
+       Random random = new Random();
 
        for(var i = 0; i<1000; i++) {
            {
