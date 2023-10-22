@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Meth_3.Main",
+            "projectName": "Tpsit relazione_7b0f308c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Meth_2.Main",
+            "projectName": "Tpsit relazione_7b0f308c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Meth_1.Main",
+            "projectName": "Tpsit relazione_7b0f308c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Meth_4.Main",
+            "projectName": "Tpsit relazione_7b0f308c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Tpsit relazione_7b0f308c"
+        },
+        {
+            "type": "java",
+            "name": "Tempo_exe",
+            "request": "launch",
+            "mainClass": "Tempo_exe",
+            "projectName": "Tpsit relazione_7b0f308c"
+        }
+    ]
+}

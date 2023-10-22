@@ -1,0 +1,5 @@
+Metodo synchronize: 2-12 ms
+Metodo lock: 1-2 ms
+Metodo synchronized: 1-11 ms
+Metodo Struttura dati concorrente: 2 -27 ms
+
